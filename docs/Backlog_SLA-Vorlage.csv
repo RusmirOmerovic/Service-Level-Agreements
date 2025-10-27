@@ -1,0 +1,21 @@
+Phase,Nr,Aufgabe,Status,Priorität
+1 - Vorbereitung,1,Zotero installieren & konfigurieren,To Do,Hoch
+1 - Vorbereitung,2,GitHub-Repo anlegen (SLA-Vorlage),Done,Hoch
+1 - Vorbereitung,3,Zotero-Setup-Checkliste in /docs ablegen,To Do,Mittel
+1 - Vorbereitung,4,APA 7 (DE) Stil aktivieren & Testzitat prüfen,To Do,Hoch
+2 - Recherche & Grundlagen,5,Fragenliste zum Thema SLA erstellen,To Do,Hoch
+2 - Recherche & Grundlagen,6,Fachartikel & ITIL-Quellen in Zotero erfassen,To Do,Hoch
+2 - Recherche & Grundlagen,7,Begriffe SLA / OLA / UC definieren,To Do,Mittel
+2 - Recherche & Grundlagen,8,Qualitätskriterien & KPIs recherchieren,To Do,Mittel
+2 - Recherche & Grundlagen,9,Beispiele & Vorlagen sammeln,To Do,Mittel
+3 - Konzept & Erstellung,10,Fiktives Unternehmen entwerfen,To Do,Hoch
+3 - Konzept & Erstellung,11,Drei IT-Services auswählen,To Do,Mittel
+3 - Konzept & Erstellung,12,SLA-Vorlage entwerfen (Tabellenform),To Do,Hoch
+3 - Konzept & Erstellung,13,Vorlage auf drei Services anwenden,To Do,Mittel
+3 - Konzept & Erstellung,14,Zwischenergebnisse dokumentieren,To Do,Mittel
+4 - Auswertung & Reflexion,15,Vorteile/Nachteile von SLAs analysieren,To Do,Mittel
+4 - Auswertung & Reflexion,16,Reflexion zur Umsetzung schreiben,To Do,Hoch
+4 - Auswertung & Reflexion,17,Schlussfolgerungen & Empfehlungen,To Do,Mittel
+5 - Abschluss,18,Fazit formulieren,To Do,Mittel
+5 - Abschluss,19,"Formatierung prüfen (7–10 Seiten, APA 7 DE)",To Do,Mittel
+5 - Abschluss,20,Endversion exportieren & ablegen (/final),To Do,Hoch
