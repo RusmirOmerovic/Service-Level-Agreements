@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# PDF temporary / lock files
+*.tmp
+
+# Editor / OS
+Thumbs.db
+
+# Optional: exports (if you want to keep PDFs local only)
+# exports/
+
