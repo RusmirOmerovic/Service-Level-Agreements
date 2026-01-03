@@ -69,3 +69,7 @@ Always consult legal professionals before using SLAs in production environments.
 - Google Cloud Architecture Framework – Reliability & SLOs
 - AWS Well-Architected Framework – Reliability Pillar
 - Microsoft Azure Well-Architected Framework
+
+### Preview of the SLA Excel Template (`sla-template.xlsx`)
+
+![Preview of the SLA Excel template](excel.png)
